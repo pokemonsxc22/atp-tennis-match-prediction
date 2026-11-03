@@ -1,0 +1,22 @@
+{
+  "train_matches": 16572,
+  "validation_matches": 2668,
+  "test_matches": 5207,
+  "best_c": 0.01,
+  "data_commit": "9aecc242e98b41fb6a69ecfc188a58ebb4cf2f6f",
+  "history_lag_days": 21,
+  "metrics": [
+    {
+      "model": "Logistic regression",
+      "accuracy": 0.6458613405031688,
+      "log_loss": 0.6204285261756396,
+      "brier_score": 0.21618446359392124
+    },
+    {
+      "model": "Higher-ranked player",
+      "accuracy": 0.6422124063760323,
+      "log_loss": 4.943018919428221,
+      "brier_score": 0.3577875936239677
+    }
+  ]
+}
