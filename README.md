@@ -40,5 +40,5 @@ The 21-day delay sacrifices recency to avoid same/overlapping-tournament informa
 
 Match data: [TennisMyLife TML-Database](https://github.com/Tennismylife/TML-Database), which acknowledges Jeff Sackmann / Tennis Abstract. Source terms permit educational analysis with acknowledgement and restrict commercial use without express permission. Raw data is excluded from the repository. The notebook includes exact download URLs and SHA-256 hashes.
 
-This implementation was written with substantial AI assistance for coding, debugging, evaluation and documentation. It independently implements standard statistical methods. Review the code and reproduce the analysis before describing your personal contribution. Library authors and data collectors retain their respective rights.
+AI assistance was used for coding, debugging, and documentation. It independently implements standard statistical methods. Review the code and reproduce the analysis before describing your personal contribution. Library authors and data collectors retain their respective rights.
 
